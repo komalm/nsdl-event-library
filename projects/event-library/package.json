@@ -1,6 +1,6 @@
 {
     "name": "ngtek-event-library",
-    "version": "1.0.168",
+    "version": "1.0.169",
     "peerDependencies": {
         "@angular/common": "^8.2.14",
         "@angular/core": "^8.2.14",
